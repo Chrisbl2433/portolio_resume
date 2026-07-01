@@ -12,7 +12,7 @@
   "use strict";
 
   /* ---- Config ---- */
-  var PASSWORD = "Christos";          // <-- change this to your chosen password
+  var PASSWORD = "Portfolio2026";          // <-- change this to your chosen password
   var STORAGE_KEY = "cs_unlocked";    // remembers unlock for the session
 
   /* ---- Top-nav mobile menu ---- */
