@@ -1,8 +1,6 @@
 # UXR Portfolio
 
-A static, no-build portfolio site (HTML/CSS/JS) modelled on the structure of
-Matthew Elias Moutos' site — recreated styling, original content. Designed to
-deploy on **GitHub Pages**.
+A static, no-build portfolio site (HTML/CSS/JS). Designed to deploy on **GitHub Pages**.
 
 ## Files
 | File | Purpose |
@@ -18,7 +16,7 @@ The folder lives in your Google Drive workspace, so just **double-click any
 `.html` file** to open it in a browser. No server needed.
 
 ## Set the case-study password
-Open `script.js` → change `var PASSWORD = "Christos";` to your chosen password.
+Open `script.js` → change `var PASSWORD = "Portfolio2026";` to your chosen password.
 (Client-side only — keeps casual visitors out, but the source is readable, so
 keep genuinely confidential detail out of these pages.)
 
